@@ -25,7 +25,7 @@
                 android:id="@+id/sessionTokenTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Session Token:"
+                android:text="Session Token"
                 android:textSize="18sp"
                 tools:ignore="MissingConstraints" />
 
