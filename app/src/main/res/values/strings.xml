@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">002LoginExample</string>
+    <string name="nombreuser">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="numero_celular">Numero Celular</string>
+</resources>
