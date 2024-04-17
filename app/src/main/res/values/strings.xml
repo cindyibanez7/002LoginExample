@@ -3,4 +3,5 @@
     <string name="nombreuser">Nombre</string>
     <string name="direccion">Direccion</string>
     <string name="numero_celular">Numero Celular</string>
+    <string name="session_tokenl">Session Tokenll</string>
 </resources>
